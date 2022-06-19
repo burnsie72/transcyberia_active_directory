@@ -10,3 +10,16 @@
 ```shell
 Install-WindowsFeature AD-Domain-Services -IncludeManagementTools
 ```
+
+
+```
+Get-NETIPAddress
+
+
+# Joining the workstation to the domain
+
+
+
+```
+Add-Computer -DomainName transcyberia -Credential transcyberia\administrator -Force -Restart
+```

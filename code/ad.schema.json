@@ -1,0 +1,37 @@
+{
+    "domain": "transcyberia.com",
+
+    "groups" : [
+        {
+            "name": "Employees"
+        }
+    ],
+
+    "users": [
+
+        {
+            "local_admin": ["ws01"],
+            "name": "Erin Stewart",
+            "password":"Erin1985",
+            "groups": [
+                "Employees"
+            ]
+        },
+        {
+            "local_admin": ["ws02"],
+            "name": "Paul Ferguson",
+            "password":"Paul1985",
+            "groups": [
+                "Employees"
+            ]
+        },
+        {
+            "local_admin": ["ws01", "ws02", "dc1"],
+            "name": "Alan Burns",
+            "password":"Burnsie1972",
+            "groups": [
+                "Employees"
+            ]
+        }
+    ]
+}
