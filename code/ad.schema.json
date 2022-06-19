@@ -12,7 +12,7 @@
         {
             "local_admin": ["ws01"],
             "name": "Erin Stewart",
-            "password":"Erin1985",
+            "password":"xxxxxxxx",
             "groups": [
                 "Employees"
             ]
@@ -20,7 +20,7 @@
         {
             "local_admin": ["ws02"],
             "name": "Paul Ferguson",
-            "password":"Paul1985",
+            "password":"xxxxxxxx",
             "groups": [
                 "Employees"
             ]
@@ -28,7 +28,7 @@
         {
             "local_admin": ["ws01", "ws02", "dc1"],
             "name": "Alan Burns",
-            "password":"Burnsie1972",
+            "password":"xxxxxxxx",
             "groups": [
                 "Employees"
             ]
